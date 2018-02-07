@@ -6649,6 +6649,20 @@
 "Other","SFY 2005-2006","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
 "Other","SFY 2005-2006","Female","In State","Independent Living","Number","Children in Placement",0
 "Other","SFY 2005-2006","Female","In State","Total","Number","Children in Placement",37
+"Other","SFY 2005-2006","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2005-2006","Female","Out of State","Total","Number","Children in Placement",-6666
 "Other","SFY 2005-2006","Male","In State","Foster Care","Number","Children in Placement",3
 "Other","SFY 2005-2006","Male","In State","Relative Foster Care","Number","Children in Placement",3
 "Other","SFY 2005-2006","Male","In State","Special Study","Number","Children in Placement",0
@@ -7125,409 +7139,507 @@
 "Other","SFY 2010-2011","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
 "Other","SFY 2010-2011","Total","Out of State","Independent Living","Number","Children in Placement",0
 "Other","SFY 2010-2011","Total","Out of State","Total","Number","Children in Placement",39
--9999,"SFY 2011-2012","Female","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Female","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Female","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Group Home","Number","Children in Placement",9
--9999,"SFY 2011-2012","Female","In State","Residential Treatment Center","Number","Children in Placement",13
--9999,"SFY 2011-2012","Female","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","In State","Total","Number","Children in Placement",24
--9999,"SFY 2011-2012","Female","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Female","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2011-2012","Female","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Female","Out of State","Total","Number","Children in Placement",2
--9999,"SFY 2011-2012","Male","In State","Foster Care","Number","Children in Placement",2
--9999,"SFY 2011-2012","Male","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Group Home","Number","Children in Placement",7
--9999,"SFY 2011-2012","Male","In State","Residential Treatment Center","Number","Children in Placement",40
--9999,"SFY 2011-2012","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",63
--9999,"SFY 2011-2012","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","In State","Total","Number","Children in Placement",113
--9999,"SFY 2011-2012","Male","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Group Home","Number","Children in Placement",1
--9999,"SFY 2011-2012","Male","Out of State","Residential Treatment Center","Number","Children in Placement",26
--9999,"SFY 2011-2012","Male","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Male","Out of State","Total","Number","Children in Placement",27
--9999,"SFY 2011-2012","Total","In State","Foster Care","Number","Children in Placement",3
--9999,"SFY 2011-2012","Total","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Group Home","Number","Children in Placement",16
--9999,"SFY 2011-2012","Total","In State","Residential Treatment Center","Number","Children in Placement",53
--9999,"SFY 2011-2012","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",63
--9999,"SFY 2011-2012","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","In State","Total","Number","Children in Placement",137
--9999,"SFY 2011-2012","Total","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2011-2012","Total","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Group Home","Number","Children in Placement",1
--9999,"SFY 2011-2012","Total","Out of State","Residential Treatment Center","Number","Children in Placement",27
--9999,"SFY 2011-2012","Total","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2011-2012","Total","Out of State","Total","Number","Children in Placement",29
--9999,"SFY 2012-2013","Female","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2012-2013","Female","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2012-2013","Female","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Therapeutic Foster Care","Number","Children in Placement",2
--9999,"SFY 2012-2013","Female","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Group Home","Number","Children in Placement",5
--9999,"SFY 2012-2013","Female","In State","Residential Treatment Center","Number","Children in Placement",2
--9999,"SFY 2012-2013","Female","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","In State","Total","Number","Children in Placement",11
--9999,"SFY 2012-2013","Female","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2012-2013","Female","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Female","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2012-2013","Male","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2012-2013","Male","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2012-2013","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Group Home","Number","Children in Placement",5
--9999,"SFY 2012-2013","Male","In State","Residential Treatment Center","Number","Children in Placement",21
--9999,"SFY 2012-2013","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Solnit Center","Number","Children in Placement",2
--9999,"SFY 2012-2013","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",11
--9999,"SFY 2012-2013","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","In State","Total","Number","Children in Placement",41
--9999,"SFY 2012-2013","Male","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Residential Treatment Center","Number","Children in Placement",3
--9999,"SFY 2012-2013","Male","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Male","Out of State","Total","Number","Children in Placement",3
--9999,"SFY 2012-2013","Total","In State","Foster Care","Number","Children in Placement",2
--9999,"SFY 2012-2013","Total","In State","Relative Foster Care","Number","Children in Placement",2
--9999,"SFY 2012-2013","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Therapeutic Foster Care","Number","Children in Placement",2
--9999,"SFY 2012-2013","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Group Home","Number","Children in Placement",10
--9999,"SFY 2012-2013","Total","In State","Residential Treatment Center","Number","Children in Placement",23
--9999,"SFY 2012-2013","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Solnit Center","Number","Children in Placement",2
--9999,"SFY 2012-2013","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",11
--9999,"SFY 2012-2013","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","In State","Total","Number","Children in Placement",52
--9999,"SFY 2012-2013","Total","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Residential Treatment Center","Number","Children in Placement",4
--9999,"SFY 2012-2013","Total","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2012-2013","Total","Out of State","Total","Number","Children in Placement",4
--9999,"SFY 2013-2014","Female","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2013-2014","Female","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2013-2014","Female","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Group Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2013-2014","Female","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","In State","Total","Number","Children in Placement",3
--9999,"SFY 2013-2014","Female","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2013-2014","Female","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2013-2014","Female","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2013-2014","Male","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Group Home","Number","Children in Placement",5
--9999,"SFY 2013-2014","Male","In State","Residential Treatment Center","Number","Children in Placement",4
--9999,"SFY 2013-2014","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",20
--9999,"SFY 2013-2014","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2013-2014","Male","In State","Total","Number","Children in Placement",29
--9999,"SFY 2013-2014","Total","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2013-2014","Total","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2013-2014","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Group Home","Number","Children in Placement",5
--9999,"SFY 2013-2014","Total","In State","Residential Treatment Center","Number","Children in Placement",5
--9999,"SFY 2013-2014","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",20
--9999,"SFY 2013-2014","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","In State","Total","Number","Children in Placement",32
--9999,"SFY 2013-2014","Total","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2013-2014","Total","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2013-2014","Total","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2014-2015","Female","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2014-2015","Female","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2014-2015","Female","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Group Home","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Residential Treatment Center","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2014-2015","Female","In State","Total","Number","Children in Placement",2
--9999,"SFY 2014-2015","Male","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Group Home","Number","Children in Placement",2
--9999,"SFY 2014-2015","Male","In State","Residential Treatment Center","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Solnit Center","Number","Children in Placement",1
--9999,"SFY 2014-2015","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",3
--9999,"SFY 2014-2015","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2014-2015","Male","In State","Total","Number","Children in Placement",6
--9999,"SFY 2014-2015","Total","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2014-2015","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Therapeutic Foster Care","Number","Children in Placement",1
--9999,"SFY 2014-2015","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Group Home","Number","Children in Placement",2
--9999,"SFY 2014-2015","Total","In State","Residential Treatment Center","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Solnit Center","Number","Children in Placement",1
--9999,"SFY 2014-2015","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",3
--9999,"SFY 2014-2015","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2014-2015","Total","In State","Total","Number","Children in Placement",8
--9999,"SFY 2015-2016","Female","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2015-2016","Female","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Group Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2015-2016","Female","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","In State","Total","Number","Children in Placement",2
--9999,"SFY 2015-2016","Female","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2015-2016","Female","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2015-2016","Female","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2015-2016","Male","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2015-2016","Male","In State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Group Home","Number","Children in Placement",1
--9999,"SFY 2015-2016","Male","In State","Residential Treatment Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",2
--9999,"SFY 2015-2016","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2015-2016","Male","In State","Independent Living","Number","Children in Placement",1
--9999,"SFY 2015-2016","Male","In State","Total","Number","Children in Placement",5
--9999,"SFY 2015-2016","Total","In State","Foster Care","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Group Home","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","In State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",2
--9999,"SFY 2015-2016","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","In State","Independent Living","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","In State","Total","Number","Children in Placement",7
--9999,"SFY 2015-2016","Total","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2015-2016","Total","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2015-2016","Total","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2016-2017","Female","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2016-2017","Female","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2016-2017","Female","Out of State","Total","Number","Children in Placement",1
--9999,"SFY 2016-2017","Male","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2016-2017","Male","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Group Home","Number","Children in Placement",1
--9999,"SFY 2016-2017","Male","In State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2016-2017","Male","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",3
--9999,"SFY 2016-2017","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2016-2017","Male","In State","Total","Number","Children in Placement",6
--9999,"SFY 2016-2017","Total","In State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Relative Foster Care","Number","Children in Placement",1
--9999,"SFY 2016-2017","Total","In State","Special Study","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Shelter","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Group Home","Number","Children in Placement",1
--9999,"SFY 2016-2017","Total","In State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2016-2017","Total","In State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",3
--9999,"SFY 2016-2017","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","In State","Total","Number","Children in Placement",6
--9999,"SFY 2016-2017","Total","Out of State","Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Relative Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Special Study","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","PDC or Safe Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Shelter","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Group Home","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Residential Treatment Center","Number","Children in Placement",1
--9999,"SFY 2016-2017","Total","Out of State","High Meadows","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Solnit Center","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Independent Living","Number","Children in Placement",0
--9999,"SFY 2016-2017","Total","Out of State","Total","Number","Children in Placement",1
+"Other","SFY 2011-2012","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2011-2012","Total","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2012-2013","Total","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2013-2014","Total","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2014-2015","Total","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2015-2016","Total","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Female","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Male","Out of State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","In State","Total","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Relative Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Special Study","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Therapeutic Foster Care","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","PDC or Safe Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Shelter","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Group Home","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Residential Treatment Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","High Meadows","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Solnit Center","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Connecticut Juvenile Training School","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Medical or Psychiatric Hospital Placement","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Independent Living","Number","Children in Placement",-6666
+"Other","SFY 2016-2017","Total","Out of State","Total","Number","Children in Placement",-6666

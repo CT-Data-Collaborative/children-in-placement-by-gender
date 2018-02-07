@@ -1,7 +1,8 @@
 Children in Placement by Gender
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/children-in-placement-by-gender.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/children-in-placement-by-gender)
 Children in Placement by Gender reports the number of children in Connecticut Department of Children and Families (DCF) placement by Gender.
+
+Data Source: <https://data.ct.gov/Health-and-Human-Services/DCF-Children-in-Placement-Annual-Point-in-Time-Tre/agib-7xfs>
 
 ## License MIT
 
