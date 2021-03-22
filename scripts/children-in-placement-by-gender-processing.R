@@ -24,12 +24,15 @@ cip_df <- cip_df[-c(1,3)]
 #Reshape data
 cip_df_long <- melt(
     cip_df,
-    id.vars = c("Region", "Demographic", "Out_of_State", "Month_in_Care"),
+    id.vars = c("DCF Region", "Demographic", "Out_of_State", "Month_in_Care"),
     variable.name = "Type of Placement",
     variable.factor = F,
     value.name = "Value",
     value.factor = F
 )
+
+# Rename `DCF Region` to just `Region`
+names(cip_df_long)[names(cip_df_long)=="DCF Region"] <- "Region"
 
 # recode all the things
 # Region Names
@@ -170,7 +173,7 @@ complete_df <- cip_df_long_clean %>%
 # Write to File
 write.table(
     complete_df,
-    file.path(getwd(), "data", "children-in-placement-by-gender.csv"),
+    file.path(getwd(), "data", "children-in-placement-by-gender-2019.csv"),
     sep = ",",
     row.names = F,
     na = "-6666" #Missing data that was backfilled

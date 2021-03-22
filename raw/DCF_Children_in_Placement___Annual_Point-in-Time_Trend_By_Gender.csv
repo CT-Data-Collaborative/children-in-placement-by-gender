@@ -1,4 +1,4 @@
-Data_as_of,Region,Office_Name,Demographic,Out_of_State,Month_in_Care,TOTAL_CIP,FOSTER_CARE,RELATIVE_CARE,SPECIAL_STUDY,THERAPEUTIC_FOSTER_CARE,PDC_SAFE_HOME,SHELTER,GROUP_HOME,RESIDENTIAL,DCF_HIGHMEADOWS,DCF_SOLNIT,DCF_CJTS,HOSPITAL,INDEPENDENT_LIVING
+Data_as_of,DCF Region,DCF Office,Demographic,Out_of_State,Month_in_Care,TOTAL_CIP,FOSTER_CARE,RELATIVE_CARE,SPECIAL_STUDY,THERAPEUTIC_FOSTER_CARE,PDC_SAFE_HOME,SHELTER,GROUP_HOME,RESIDENTIAL,DCF_HIGHMEADOWS,DCF_SOLNIT,DCF_CJTS,HOSPITAL,INDEPENDENT_LIVING
 06/26/2014,Other,NULL,F,N,07/01/2004,1,1,0,0,0,0,0,0,0,0,0,0,0,0
 06/26/2014,Other,Aftercare,F,N,07/01/2004,5,0,0,0,0,0,0,0,5,0,0,0,0,0
 06/26/2014,Other,Aftercare,M,Y,07/01/2004,8,0,0,0,0,0,0,0,8,0,0,0,0,0
@@ -574,6 +574,7 @@ Data_as_of,Region,Office_Name,Demographic,Out_of_State,Month_in_Care,TOTAL_CIP,F
 07/18/2017,Region 6,Meriden Office,Male,N,07/01/2012,92,17,24,3,23,3,0,17,3,0,0,0,1,1
 07/18/2017,Region 6,Meriden Office,Male,Y,07/01/2012,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 07/18/2017,Region 6,New Britain Office,Female,N,07/01/2012,204,45,39,13,52,1,0,27,10,0,1,1,2,13
+07/18/2017,Region 5,Danbury Office,Male,Y,07/01/2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 07/18/2017,Region 6,New Britain Office,Female,Y,07/01/2012,6,1,3,0,0,0,0,0,2,0,0,0,0,0
 07/18/2017,Region 6,New Britain Office,Male,N,07/01/2012,207,32,55,12,48,4,8,19,15,0,1,3,2,8
 07/18/2017,Region 6,New Britain Office,Male,Y,07/01/2012,13,1,2,0,1,0,0,0,9,0,0,0,0,0
@@ -668,7 +669,6 @@ Data_as_of,Region,Office_Name,Demographic,Out_of_State,Month_in_Care,TOTAL_CIP,F
 07/18/2017,Region 5,Danbury Office,Female,N,07/01/2013,46,15,13,3,6,1,0,2,1,0,0,0,0,5
 07/18/2017,Region 5,Danbury Office,Female,Y,07/01/2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 07/18/2017,Region 5,Danbury Office,Male,N,07/01/2013,54,23,12,2,9,0,1,4,2,0,0,0,1,0
-07/18/2017,Region 5,Danbury Office,Male,Y,07/01/2013,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 07/18/2017,Region 5,Torrington Office,Female,N,07/01/2013,87,32,15,8,17,1,3,6,3,0,0,0,1,1
 07/18/2017,Region 5,Torrington Office,Female,Y,07/01/2013,2,0,0,0,0,0,0,0,2,0,0,0,0,0
 07/18/2017,Region 5,Torrington Office,Male,N,07/01/2013,91,37,13,7,19,4,0,6,2,0,1,0,0,2
@@ -854,3 +854,113 @@ Data_as_of,Region,Office_Name,Demographic,Out_of_State,Month_in_Care,TOTAL_CIP,F
 07/18/2017,Region 1,Bridgeport Office,Female,N,07/01/2016,101,25,28,7,31,0,0,5,2,0,0,0,0,3
 07/18/2017,Region 3,Middletown Office,Male,Y,07/01/2016,4,2,1,0,0,0,0,0,0,0,0,0,0,1
 07/18/2017,Region 2,New Haven Office,Male,Y,07/01/2016,4,0,1,0,2,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 5,Danbury Office,Female,Y,07/01/2017,3,1,2,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 1,Norwalk Office,Male,N,07/01/2017,93,38,31,10,9,0,0,0,1,0,0,0,0,4
+10/06/2017,Region 3,Willimantic Office,Male,Y,07/01/2017,7,1,4,0,0,0,0,1,0,0,0,0,0,1
+10/06/2017,Region 5,Waterbury Office,Female,N,07/01/2017,291,103,101,19,36,3,1,9,2,0,1,0,0,16
+10/06/2017,Region 1,Bridgeport Office,Male,N,07/01/2017,160,44,45,6,21,0,0,9,9,0,0,12,3,11
+10/06/2017,Region 2,Milford Office,Male,N,07/01/2017,161,54,51,6,27,1,1,11,3,0,1,1,0,5
+10/06/2017,Region 2,New Haven Office,Female,N,07/01/2017,164,42,42,10,33,0,1,4,3,0,0,0,0,29
+10/06/2017,Region 5,Danbury Office,Male,Y,07/01/2017,9,1,8,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Norwich Office,Female,N,07/01/2017,218,81,78,15,12,1,4,6,12,0,1,0,0,8
+10/06/2017,Region 4,Manchester Office,Female,N,07/01/2017,151,40,55,10,18,0,6,6,4,0,2,0,2,8
+10/06/2017,Region 2,New Haven Office,Female,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Hartford Office,Male,N,07/01/2017,268,59,94,19,34,1,1,20,11,0,2,6,1,20
+10/06/2017,Region 6,New Britain Office,Male,Y,07/01/2017,5,2,1,0,2,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Middletown Office,Male,Y,07/01/2017,5,0,2,0,0,0,0,0,0,0,0,0,0,3
+10/06/2017,Region 4,Hartford Office,Male,Y,07/01/2017,3,2,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 4,Manchester Office,Male,Y,07/01/2017,3,0,2,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 3,Norwich Office,Male,Y,07/01/2017,7,0,6,0,0,0,0,0,1,0,0,0,0,0
+10/06/2017,Region 3,Middletown Office,Female,N,07/01/2017,60,14,20,4,5,0,0,2,2,0,3,0,0,10
+10/06/2017,Region 0,Unassigned_Office,Male,N,07/01/2017,4,0,0,0,0,0,0,1,1,0,0,2,0,0
+10/06/2017,Region 6,Meriden Office,Male,Y,07/01/2017,4,0,1,0,1,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 3,Willimantic Office,Female,Y,07/01/2017,7,0,7,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Norwich Office,Female,Y,07/01/2017,4,0,3,0,0,0,0,0,1,0,0,0,0,0
+10/06/2017,Region 5,Waterbury Office,Male,N,07/01/2017,297,97,77,24,55,0,1,11,4,0,2,12,4,10
+10/06/2017,Region 2,Milford Office,Female,Y,07/01/2017,3,0,0,0,0,0,0,0,0,0,0,0,0,3
+10/06/2017,Region 6,Meriden Office,Female,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 5,Danbury Office,Female,N,07/01/2017,102,30,43,15,7,0,0,1,0,0,0,0,0,6
+10/06/2017,Region 6,New Britain Office,Female,N,07/01/2017,208,42,73,17,38,2,3,10,4,0,1,0,3,15
+10/06/2017,Region 2,New Haven Office,Male,Y,07/01/2017,3,0,2,0,1,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 1,Norwalk Office,Male,Y,07/01/2017,3,1,1,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 3,Norwich Office,Male,N,07/01/2017,224,80,64,18,23,1,2,15,10,0,0,4,1,6
+10/06/2017,Region 5,Torrington Office,Female,N,07/01/2017,84,22,26,9,15,0,1,1,0,0,4,0,1,5
+10/06/2017,Region 4,Hartford Office,Female,Y,07/01/2017,7,0,7,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 1,Bridgeport Office,Female,Y,07/01/2017,3,0,1,0,0,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 3,Middletown Office,Male,N,07/01/2017,50,11,13,4,11,0,1,1,5,0,0,0,0,4
+10/06/2017,Region 1,Norwalk Office,Female,Y,07/01/2017,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 1,Norwalk Office,Female,N,07/01/2017,81,24,27,5,20,0,0,0,0,0,2,0,0,3
+10/06/2017,Region 3,Willimantic Office,Female,N,07/01/2017,161,65,44,16,13,0,1,10,3,0,0,0,0,9
+10/06/2017,Region 4,Hartford Office,Female,N,07/01/2017,238,56,87,26,35,0,2,14,2,0,2,0,1,13
+10/06/2017,Region 1,Bridgeport Office,Male,Y,07/01/2017,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+10/06/2017,Region 2,Milford Office,Female,N,07/01/2017,144,35,45,9,26,0,1,6,7,0,1,0,3,11
+10/06/2017,Region 2,New Haven Office,Male,N,07/01/2017,142,34,29,4,35,1,0,11,4,0,1,5,0,18
+10/06/2017,Region 5,Torrington Office,Female,Y,07/01/2017,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 0,Gen'l Administration,Female,N,07/01/2017,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 6,Meriden Office,Male,N,07/01/2017,81,20,31,4,11,0,0,9,0,0,0,0,2,4
+10/06/2017,Region 5,Waterbury Office,Female,Y,07/01/2017,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Middletown Office,Female,Y,07/01/2017,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 6,New Britain Office,Female,Y,07/01/2017,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 3,Willimantic Office,Male,N,07/01/2017,130,47,37,9,11,0,2,10,7,0,0,1,1,5
+10/06/2017,Region 4,Manchester Office,Female,Y,07/01/2017,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+10/06/2017,Region 5,Waterbury Office,Male,Y,07/01/2017,5,1,3,0,0,0,0,0,0,0,0,0,0,1
+10/06/2017,Region 5,Torrington Office,Male,N,07/01/2017,78,17,27,8,15,1,0,2,2,0,0,0,1,5
+10/06/2017,Region 6,New Britain Office,Male,N,07/01/2017,208,55,64,10,38,0,2,20,8,0,0,4,2,5
+10/06/2017,Region 4,Manchester Office,Male,N,07/01/2017,201,54,75,13,29,0,0,14,4,0,5,0,1,6
+10/06/2017,Region 1,Bridgeport Office,Female,N,07/01/2017,120,34,36,1,26,0,1,1,2,0,1,0,0,18
+10/06/2017,Region 5,Danbury Office,Male,N,07/01/2017,95,28,32,7,20,1,0,3,0,0,0,0,0,4
+10/06/2017,Region 6,Meriden Office,Female,N,07/01/2017,89,23,42,5,6,0,1,0,3,0,1,0,0,8
+11/07/2018,Region 0,Unassigned_Office,Male,N,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 1,Bridgeport Office,Female,N,07/01/2018,122,36,34,8,26,0,0,1,1,0,2,0,1,13
+11/07/2018,Region 1,Bridgeport Office,Female,Y,07/01/2018,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 1,Bridgeport Office,Male,N,07/01/2018,183,44,58,12,29,0,0,18,9,0,0,0,1,12
+11/07/2018,Region 1,Norwalk Office,Female,N,07/01/2018,66,24,17,4,16,0,1,2,0,0,0,0,0,2
+11/07/2018,Region 1,Norwalk Office,Female,Y,07/01/2018,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 1,Norwalk Office,Male,N,07/01/2018,80,24,25,12,7,0,0,2,3,0,0,0,0,7
+11/07/2018,Region 1,Norwalk Office,Male,Y,07/01/2018,4,2,1,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 2,Milford Office,Female,N,07/01/2018,146,41,42,5,34,0,1,5,2,0,2,0,1,13
+11/07/2018,Region 2,Milford Office,Female,Y,07/01/2018,5,0,0,0,0,0,0,0,2,0,0,0,0,3
+11/07/2018,Region 2,Milford Office,Male,N,07/01/2018,136,40,44,6,27,1,0,9,3,0,0,0,1,5
+11/07/2018,Region 2,Milford Office,Male,Y,07/01/2018,9,1,7,0,0,0,0,0,0,0,0,0,0,1
+11/07/2018,Region 2,New Haven Office,Female,N,07/01/2018,153,49,37,4,27,1,0,3,2,0,2,0,0,28
+11/07/2018,Region 2,New Haven Office,Female,Y,07/01/2018,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 2,New Haven Office,Male,N,07/01/2018,146,36,42,6,33,0,0,11,6,0,2,0,0,10
+11/07/2018,Region 2,New Haven Office,Male,Y,07/01/2018,2,0,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Female,N,07/01/2018,66,19,26,4,4,0,1,3,2,0,1,0,0,6
+11/07/2018,Region 3,Middletown Office,Female,Y,07/01/2018,3,1,2,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 3,Middletown Office,Male,N,07/01/2018,63,16,23,5,10,1,3,2,2,0,0,0,0,1
+11/07/2018,Region 3,Middletown Office,Male,Y,07/01/2018,5,1,2,0,0,0,0,0,0,0,0,0,0,2
+11/07/2018,Region 3,Norwich Office,Female,N,07/01/2018,210,73,73,17,21,0,1,7,6,0,1,0,0,11
+11/07/2018,Region 3,Norwich Office,Female,Y,07/01/2018,7,1,4,0,0,0,0,0,2,0,0,0,0,0
+11/07/2018,Region 3,Norwich Office,Male,N,07/01/2018,225,77,72,14,31,1,1,10,11,0,2,0,2,4
+11/07/2018,Region 3,Norwich Office,Male,Y,07/01/2018,9,0,8,0,0,0,0,0,1,0,0,0,0,0
+11/07/2018,Region 3,Willimantic Office,Female,N,07/01/2018,133,62,28,7,17,0,2,3,4,0,2,0,0,8
+11/07/2018,Region 3,Willimantic Office,Female,Y,07/01/2018,9,0,8,0,0,0,0,0,0,0,0,0,1,0
+11/07/2018,Region 3,Willimantic Office,Male,N,07/01/2018,131,45,37,7,10,1,3,11,11,0,1,0,1,4
+11/07/2018,Region 3,Willimantic Office,Male,Y,07/01/2018,7,1,4,0,0,0,0,1,1,0,0,0,0,0
+11/07/2018,Region 4,Hartford Office,Female,N,07/01/2018,244,55,87,29,32,0,3,13,1,0,1,0,1,22
+11/07/2018,Region 4,Hartford Office,Female,Y,07/01/2018,8,0,8,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Hartford Office,Male,N,07/01/2018,269,52,91,18,45,0,3,21,12,0,2,0,3,22
+11/07/2018,Region 4,Hartford Office,Male,Y,07/01/2018,6,2,3,0,0,0,0,0,0,0,0,0,1,0
+11/07/2018,Region 4,Manchester Office,Female,N,07/01/2018,163,38,76,13,10,1,1,8,3,0,4,0,1,8
+11/07/2018,Region 4,Manchester Office,Female,Y,07/01/2018,6,4,0,0,2,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 4,Manchester Office,Male,N,07/01/2018,197,45,80,14,29,0,3,12,3,0,2,0,0,9
+11/07/2018,Region 4,Manchester Office,Male,Y,07/01/2018,4,0,2,0,0,0,0,0,1,0,0,0,0,1
+11/07/2018,Region 5,Danbury Office,Female,N,07/01/2018,91,39,25,14,4,2,0,1,0,0,0,0,1,5
+11/07/2018,Region 5,Danbury Office,Female,Y,07/01/2018,6,1,5,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Danbury Office,Male,N,07/01/2018,88,37,28,6,11,0,0,3,0,0,0,0,0,3
+11/07/2018,Region 5,Danbury Office,Male,Y,07/01/2018,5,0,5,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Torrington Office,Female,N,07/01/2018,81,25,33,4,10,0,2,2,0,0,0,0,1,4
+11/07/2018,Region 5,Torrington Office,Female,Y,07/01/2018,3,1,0,0,0,0,0,0,0,0,0,0,0,2
+11/07/2018,Region 5,Torrington Office,Male,N,07/01/2018,76,24,19,5,15,1,0,4,2,0,1,0,1,4
+11/07/2018,Region 5,Waterbury Office,Female,N,07/01/2018,299,105,103,26,37,2,0,6,3,0,2,0,1,14
+11/07/2018,Region 5,Waterbury Office,Female,Y,07/01/2018,3,2,1,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 5,Waterbury Office,Male,N,07/01/2018,289,84,88,24,55,5,0,11,10,0,2,0,3,7
+11/07/2018,Region 5,Waterbury Office,Male,Y,07/01/2018,7,1,4,0,0,0,0,0,0,0,0,0,1,1
+11/07/2018,Region 6,Meriden Office,Female,N,07/01/2018,90,21,42,2,11,0,2,0,3,0,0,0,1,8
+11/07/2018,Region 6,Meriden Office,Male,N,07/01/2018,75,23,34,0,7,0,1,5,0,0,1,0,1,3
+11/07/2018,Region 6,Meriden Office,Male,Y,07/01/2018,3,0,2,0,1,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Female,N,07/01/2018,200,51,75,7,41,1,2,9,4,0,1,0,1,8
+11/07/2018,Region 6,New Britain Office,Female,Y,07/01/2018,3,0,3,0,0,0,0,0,0,0,0,0,0,0
+11/07/2018,Region 6,New Britain Office,Male,N,07/01/2018,197,43,73,6,43,2,0,12,6,0,1,0,0,11
+11/07/2018,Region 6,New Britain Office,Male,Y,07/01/2018,6,0,3,0,2,0,0,1,0,0,0,0,0,0
